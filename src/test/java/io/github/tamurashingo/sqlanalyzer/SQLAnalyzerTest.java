@@ -1,4 +1,4 @@
-package com.github.tamurashingo.sqlanalyzer;
+package io.github.tamurashingo.sqlanalyzer;
 
 import org.junit.jupiter.api.Test;
 
