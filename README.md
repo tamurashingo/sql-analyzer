@@ -1,10 +1,24 @@
 # SQL Analyzer
 
+[![Java CI](https://github.com/tamurashingo/sql-analyzer/actions/workflows/ci.yml/badge.svg)](https://github.com/tamurashingo/sql-analyzer/actions/workflows/ci.yml)
+[![License: MIT](http://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
+
+
 A library for SQL. 
 
 ## Required
 
 - Java 1.8+
+
+
+```xml
+<dependency>
+  <groupId>io.github.tamurashingo.sqlanalyzer</groupId>
+  <artifactId>sql-analyzer</artifactId>
+  <version>0.0.1</version>
+</dependency>
+```
 
 
 ## Usage
