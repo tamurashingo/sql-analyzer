@@ -1,5 +1,6 @@
 # SQL Analyzer
 
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.github.tamurashingo.sqlanalyzer/sql-analyzer/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.github.tamurashingo.sqlanalyzer/sql-analyzer)
 [![Java CI](https://github.com/tamurashingo/sql-analyzer/actions/workflows/ci.yml/badge.svg)](https://github.com/tamurashingo/sql-analyzer/actions/workflows/ci.yml)
 [![License: MIT](http://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
